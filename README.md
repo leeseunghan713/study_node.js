@@ -8,16 +8,16 @@ Node.js - 설치
 
 Node.js 공부방법
 
-Node.js - 웹서버 만들기
-(230924 완료)
-JavaScript - Data type - Number
-(230924 완료)
-JavaScript - Data type - String
-(230924 완료)
-JavaScript - 변수
-(230924 완료)
-JavaScript - Template Literal
-(230924 완료)
+Node.js - 웹서버 만들기 (230924 완료)
+
+JavaScript - Data type - Number (230924 완료)
+
+JavaScript - Data type - String (230924 완료)
+
+JavaScript - 변수 (230924 완료)
+
+JavaScript - Template Literal (230924 완료)
+
 Node.js - URL로 입력된 값 사용하기
 
 App - 동적인 웹페이지 만들기
