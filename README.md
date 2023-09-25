@@ -18,13 +18,13 @@ JavaScript - 변수 (230924 완료)
 
 JavaScript - Template Literal (230924 완료)
 
-Node.js - URL로 입력된 값 사용하기
+Node.js - URL로 입력된 값 사용하기 (230925 완료)
 
-App - 동적인 웹페이지 만들기
+App - 동적인 웹페이지 만들기 (230925 완료)
 
-Node.js - 파일 읽기
+Node.js - 파일 읽기 (230925 완료)
 
-App - 파일을 이용해 본문 구현
+App - 파일을 이용해 본문 구현 (230925 완료)
 
 JavaScript - Boolean
 
