@@ -26,13 +26,13 @@ Node.js - 파일 읽기 (230925 완료)
 
 App - 파일을 이용해 본문 구현 (230925 완료)
 
-JavaScript - Boolean
+JavaScript - Boolean (230926 완료)
 
-JavaScript - 비교 연산자
+JavaScript - 비교 연산자 (230926 완료)
 
-JavaScript - 제어문
+JavaScript - 제어문 (230926 완료)
 
-JavaScript - 조건문
+JavaScript - 조건문 (230926 완료)
 
 Node.js - 콘솔에서의 입력값
 
