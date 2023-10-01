@@ -34,11 +34,11 @@ JavaScript - 제어문 (230926 완료)
 
 JavaScript - 조건문 (230926 완료)
 
-Node.js - 콘솔에서의 입력값
+Node.js - 콘솔에서의 입력값 (231001 완료)
 
-App - Not found 오류 구현
+App - Not found 오류 구현 (231001 완료)
 
-App - 홈페이지 구현
+App - 홈페이지 구현 (231001 완료)
 
 JavaScript - 반복문
 
