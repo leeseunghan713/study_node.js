@@ -40,12 +40,11 @@ App - Not found 오류 구현 (231001 완료)
 
 App - 홈페이지 구현 (231001 완료)
 
-JavaScript - 반복문
+JavaScript - 반복문 (231002 완료)
 
-JavaScript - 배열
+JavaScript - 배열 (231002 완료)
 
-JavaScript - 배열과 반복문
-
+JavaScript - 배열과 반복문 (231002 완료)
 
 Node.js - 파일 목록 알아내기
 
