@@ -50,21 +50,21 @@ Node.js - 파일 목록 알아내기 (231003 완료)
 
 App - 글목록 출력하기 (231003 완료)
 
-JavaScript - 함수의 기본 문법
+JavaScript - 함수의 기본 문법 (231010 완료)
 
-JavaScript - 함수의 입력
+JavaScript - 함수의 입력 (231010 완료)
 
-JavaScript - 함수의 출력
+JavaScript - 함수의 출력 (231010 완료)
 
-App - 함수를 이용해서 정리 정돈하기
+App - 함수를 이용해서 정리 정돈하기 (231010 완료)
 
-수업의 정상
+수업의 정상 (231010 완료)
 
-Node.js - 동기와 비동기 그리고 콜백
+Node.js - 동기와 비동기 그리고 콜백 (231010 완료)
 
-Node.js - 패키지 매니저와 PM2
+Node.js - 패키지 매니저와 PM2 (231010 완료)
 
-HTML - Form
+HTML - Form (231010 완료)
 
 App - 글생성 UI 만들기
 
